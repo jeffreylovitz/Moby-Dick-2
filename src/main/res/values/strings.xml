@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shake It</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_left">Left</string>
+    <string name="setX">Set threshold percentage of battery loss:</string>
+    <string name="click">Press to update</string>
+    <string name="defaultSets">The current battery level is unknown.</string>
+    <string name="defaultX">Wake functions will halt when the battery drops to unknown.</string>
+    <string name="wrongX">Invalid value for x: please enter a value between 0.0 and the current battery level.</string>
+</resources>
